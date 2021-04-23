@@ -20,4 +20,6 @@ Here are some ideas to get you started:
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sks95&show_icons=true&theme=dark&locale=en&layout=compact" alt="sks95" /></p>
 
+<!--
 [![sks95's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sks95&theme=dark)](https://github.com/sks95)
+-->
